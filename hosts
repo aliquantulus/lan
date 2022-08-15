@@ -38,8 +38,8 @@
 10.0.0.69    homey
 10.0.0.75    bananapim2zero
 10.0.0.76    wireguard
-10.0.0.77    octopi
-10.0.0.78    octopiwlan
+10.0.0.77    rpi3bpluseth0
+10.0.0.78    rpi3bplus
 10.0.0.79    thinkpadl580
 10.0.0.80    tftp
 10.0.0.81    amp
