@@ -1,6 +1,6 @@
 10.0.0.1    linksys
-10.0.0.2    virtual1
-10.0.0.4    virtual2
+10.0.0.2    virtual1    mountain
+10.0.0.4    virtual2    fountain
 10.0.0.9    server03
 10.0.0.10    ds1812
 10.0.0.11    ds509
@@ -33,7 +33,7 @@
 10.0.0.53    oddmonkey
 10.0.0.54    arkmonkey
 10.0.0.61    openvpn
-10.0.0.64    virtual3
+10.0.0.64    virtual3    coldlake
 10.0.0.65    thinkpadx230
 10.0.0.69    homey
 10.0.0.75    bananapim2zero
