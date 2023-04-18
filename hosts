@@ -1,11 +1,9 @@
 10.0.0.1    linksys
 10.0.0.2    virtual1    mountain
 10.0.0.4    virtual2    fountain
-10.0.0.9    server03
 10.0.0.10    ds1812
 10.0.0.11    ds214
 10.0.0.12    ds418
-10.0.0.13    studioxps
 10.0.0.15    win10pro01
 10.0.0.16    win10pro03
 10.0.0.19    docker01
@@ -24,7 +22,6 @@
 10.0.0.40    plex03
 10.0.0.41    encoder01
 10.0.0.42    encoder02
-10.0.0.43    argononev1
 10.0.0.44    overusedrpi3bv1dot2
 10.0.0.45    mariadb
 10.0.0.46    apache
@@ -47,13 +44,9 @@
 10.0.0.82    iptv
 10.0.0.88    server01
 10.0.0.89    server01nic2
-10.0.0.90    server02
 10.0.0.92    pizeropiosmotioneye
 10.0.0.93    RPi2BedRoom
-10.0.0.94    hyperion
 10.0.0.97    bananapim2zero1
-10.0.0.98    discord0
-10.0.0.99    discord1
 10.0.0.100    huaweib593
 10.0.0.239    wordpress1
 10.0.1.5     halfblue
@@ -77,3 +70,6 @@
 10.0.1.211    gitea
 10.0.1.220    guacamole
 10.0.1.244    pbs proxmoxbackupserver
+10.0.2.55   download01
+10.0.2.13    EAP225-34-60-F9-63-A8-FE
+10.0.2.14    EAP225-34-60-F9-F2-9C-EC
