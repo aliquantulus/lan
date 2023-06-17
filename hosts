@@ -7,7 +7,7 @@
 10.0.0.13    fragile ds220
 10.0.0.14    ds212
 10.0.0.15    ds120 nasssd win10pro01
-10.0.0.16    win10pro03
+10.0.0.16    ds213 ds213j win10pro03
 10.0.0.19    docker01
 10.0.0.20    rsync
 10.0.0.22    centos
