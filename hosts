@@ -55,7 +55,7 @@
 10.0.1.5     halfblue
 10.0.1.7     icewater
 10.0.1.13    oakhurts
-10.0.1.17    prodhurt
+10.0.1.17    prodhurt # repurposed to CastleBravo Proxmox server for MFHM at 172.16.0.13
 10.0.1.32    jellyfin
 10.0.1.39    monitoring01
 10.0.1.43    kodi3bplus
@@ -79,3 +79,4 @@
 10.0.2.55   download01
 10.0.2.13    EAP225-34-60-F9-63-A8-FE
 10.0.2.14    EAP225-34-60-F9-F2-9C-EC
+172.16.0.13    CastleBravo
