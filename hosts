@@ -1,29 +1,29 @@
 10.0.0.1    linksys
-10.0.0.2    virtual1    mountain
-10.0.0.4    virtual2    fountain
-10.0.0.10    ds1812 ds1812+
-10.0.0.11    ds214 ds214j
-10.0.0.12    ds418 ds418j
-10.0.0.13    fragile ds220 ds220j
-10.0.0.14    ds212 ds212j
-10.0.0.15    ds120 ds120j nasssd win10pro01
-10.0.0.16    ds213 ds213j win10pro03
-10.0.0.19    docker01
-10.0.0.20    rsync
-10.0.0.22    centos
-10.0.0.24    pimedia01
+10.0.0.2    virtual1    mountain mountain.lan
+10.0.0.4    virtual2    fountain fountain.lan
+10.0.0.10    ds1812 ds1812+ ds1812.lan
+10.0.0.11    ds214 ds214j ds1812.lan
+10.0.0.12    ds418 ds418j ds418.lan
+10.0.0.13    fragile ds220 ds220j fragile.lan ds220.lan ds220j.lan
+10.0.0.14    ds212 ds212j ds212.lan ds212j.lan
+10.0.0.15    ds120 ds120j nasssd win10pro01 ds120.lan ds120j.lan nasssd.lan
+10.0.0.16    ds213 ds213j win10pro03 ds213.lan ds213j.lan
+10.0.0.19    docker01 docker01.lan
+10.0.0.20    rsync rsync.lan
+10.0.0.22    centos centos.lan
+10.0.0.24    pimedia01 pimedia01.lan
 10.0.0.26    ipcam
 10.0.0.30    script
-10.0.0.31    octoprintpi4b octoprint
-10.0.0.32    plexdesk
-10.0.0.33    vaiopro13
-10.0.0.34    coldwater
+10.0.0.31    octoprintpi4b octoprint octoprintpi4b.lan octoprint.lan
+10.0.0.32    plexdesk plexdesk.lan
+10.0.0.33    vaiopro13 vaiopro13.lan
+10.0.0.34    coldwater coldwater.lan
 10.0.0.37    plex2
 10.0.0.38    aquatone
-10.0.0.39    uptimekuma monitoring
+10.0.0.39    uptimekuma monitoring uptimekuma.lan monitoring.lan
 10.0.0.40    plex03
-10.0.0.41    encoder01
-10.0.0.42    encoder02
+10.0.0.41    encoder01 encoder01.lan
+10.0.0.42    encoder02 encoder02.lan
 10.0.0.44    overusedrpi3bv1dot2
 10.0.0.45    mariadb
 10.0.0.46    apache
@@ -36,48 +36,48 @@
 10.0.0.64    virtual3    coldlake
 10.0.0.65    thinkpadx230
 10.0.0.69    homey
-10.0.0.70    arquebus
+10.0.0.70    arquebus arquebus.lan
 10.0.0.75    bananapim2zero
-10.0.0.76    wireguard
+10.0.0.76    wireguard wireguard.lan
 10.0.0.77    rpi3bpluseth0
 10.0.0.78    rpi3bplus
-10.0.0.79    thinkpadl580
+10.0.0.79    thinkpadl580 thinkpadl580.lan
 10.0.0.80    tftp
-10.0.0.81    amp
+10.0.0.81    amp amp.lan
 10.0.0.82    iptv
-10.0.0.88    server01
+10.0.0.88    server01 server01.lan
 10.0.0.89    server01nic2
 10.0.0.92    pizeropiosmotioneye
 10.0.0.93    RPi2BedRoom
 10.0.0.97    bananapim2zero1
 10.0.0.100    huaweib593
 10.0.0.239    wordpress1
-10.0.1.5     halfblue
-10.0.1.7     icewater
-10.0.1.9     rorylane
-10.0.1.13    oakhurts
+10.0.1.5     halfblue halfblue.lan
+10.0.1.7     icewater icewater.lan
+10.0.1.9     rorylane rorylane.lan
+10.0.1.13    oakhurts oakhurts.lan
 10.0.1.17    prodhurt # repurposed to CastleBravo Proxmox server for MFHM at 172.16.0.13
 10.0.1.32    jellyfin
-10.0.1.39    monitoring01
+10.0.1.39    monitoring01 monitoring01.lan
 10.0.1.43    kodi3bplus
 10.0.1.44    overusedRPi3Bplus
 10.0.1.45    PiZero2W
 10.0.1.60    pihole
 10.0.1.70    RE6500-A89
-10.0.1.80    webserver1
+10.0.1.80    webserver1 webserver1.lan webserver01 webserver01.lan
 10.0.1.87    cdetect
-10.0.1.88    blackbird
+10.0.1.88    blackbird blackbird.lan
 10.0.1.98    cdetect1
-10.0.1.99    platitude
-10.0.1.100    quadroplex
-10.0.1.101    tautulli01
-10.0.1.111    snowball
-10.0.1.114    osbourne
+10.0.1.99    platitude platitude.lan
+10.0.1.100    quadroplex quadroplex.lan
+10.0.1.101    tautulli01 tautulli01.lan tautulli1 tautulli1.lan
+10.0.1.111    snowball snowball.lan
+10.0.1.114    osbourne osbourne.lan
 10.0.1.120    dev01
 10.0.1.211    gitea
 10.0.1.220    guacamole
-10.0.1.244    pbs proxmoxbackupserver
-10.0.2.55   download01
+10.0.1.244    pbs proxmoxbackupserver pbs.lan proxmoxbackupserver.lan
+10.0.2.55   download01 download1 download01.lan download1.lan
 10.0.2.13    EAP225-34-60-F9-63-A8-FE
 10.0.2.14    EAP225-34-60-F9-F2-9C-EC
 172.16.0.13    CastleBravo
