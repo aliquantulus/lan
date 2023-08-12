@@ -52,6 +52,7 @@
 10.0.0.97    bananapim2zero1
 10.0.0.100    huaweib593
 10.0.0.239    wordpress1
+10.0.1.1    sycamore01 sycamore01.lan sycamore1 sycamore1.lan
 10.0.1.5     halfblue halfblue.lan
 10.0.1.7     icewater icewater.lan
 10.0.1.9     rorylane rorylane.lan
@@ -64,6 +65,7 @@
 10.0.1.45    PiZero2W
 10.0.1.60    pihole
 10.0.1.70    RE6500-A89
+10.0.1.79    redshank redshank.lan
 10.0.1.80    webserver1 webserver1.lan webserver01 webserver01.lan
 10.0.1.87    cdetect
 10.0.1.88    blackbird blackbird.lan
@@ -71,6 +73,7 @@
 10.0.1.99    platitude platitude.lan
 10.0.1.100    quadroplex quadroplex.lan
 10.0.1.101    tautulli01 tautulli01.lan tautulli1 tautulli1.lan
+10.0.1.102    tautulli02 tautulli02.lan tautulli2 tautulli2.lan
 10.0.1.111    snowball snowball.lan
 10.0.1.114    osbourne osbourne.lan
 10.0.1.120    dev01
@@ -80,6 +83,8 @@
 10.0.2.55    download01 download1 download01.lan download1.lan
 10.0.2.13    EAP225-34-60-F9-63-A8-FE
 10.0.2.14    EAP225-34-60-F9-F2-9C-EC
+10.0.2.233    gamebots01 gamebots01.lan gamebots1 gamebots1.lan
+10.0.2.234    guacamole01 guacamole01.lan
 10.0.3.11    opti01 opti01.lan
 10.0.3.12    opti02 opti02.lan
 10.0.3.13    opti03 opti03.lan
