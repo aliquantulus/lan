@@ -58,6 +58,9 @@
 10.0.1.9     rorylane rorylane.lan
 10.0.1.13    oakhurts oakhurts.lan
 10.0.1.17    prodhurt # repurposed to CastleBravo Proxmox server for MFHM at 172.16.0.13
+10.0.1.26    ravenrock ravenrock.lan
+10.0.1.27    seminole seminole.lan
+10.0.1.28    fullcrum fullcrum.lan
 10.0.1.32    jellyfin
 10.0.1.39    monitoring01 monitoring01.lan
 10.0.1.43    kodi3bplus
