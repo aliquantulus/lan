@@ -85,6 +85,7 @@
 10.0.1.143    youtube01
 10.0.1.211    gitea
 10.0.1.220    guacamole
+10.0.1.224    tomahawk tomahawk.lan
 10.0.1.244    pbs proxmoxbackupserver pbs.lan proxmoxbackupserver.lan
 10.0.2.55    download01 download1 download01.lan download1.lan
 10.0.2.13    EAP225-34-60-F9-63-A8-FE
