@@ -86,7 +86,8 @@
 10.0.1.141    dev01
 10.0.1.143    youtube01
 10.0.1.211    gitea
-10.0.1.213    gamebots03
+10.0.1.213    gamebots03 gamebots03.lan
+10.0.1.215    gamebots05 gamebots05.lan
 10.0.1.220    guacamole
 10.0.1.223    comanche comanche.lan
 10.0.1.224    tomahawk tomahawk.lan
