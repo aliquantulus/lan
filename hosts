@@ -104,6 +104,7 @@
 10.0.1.224    tomahawk tomahawk.lan
 10.0.1.225    cherokee cherokee.lan
 10.0.1.244    pbs proxmoxbackupserver pbs.lan proxmoxbackupserver.lan
+10.0.1.253    gamebots13 gamebots13.lan
 10.0.2.55    download01 download1 download01.lan download1.lan
 10.0.2.13    EAP225-34-60-F9-63-A8-FE
 10.0.2.14    EAP225-34-60-F9-F2-9C-EC
