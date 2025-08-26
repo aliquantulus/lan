@@ -1,4 +1,4 @@
-10.0.0.1    linksys
+10.0.0.1    linksys    linksys.lan
 10.0.0.2    virtual1    mountain mountain.lan
 10.0.0.4    virtual2    fountain fountain.lan
 10.0.0.10    ds1812 ds1812+ ds1812.lan
@@ -12,44 +12,44 @@
 10.0.0.20    rsync rsync.lan
 10.0.0.22    centos centos.lan
 10.0.0.24    pimedia01 pimedia01.lan
-10.0.0.26    ipcam
-10.0.0.30    script
+10.0.0.26    ipcam    ipcam.lan
+10.0.0.30    script    script.lan
 10.0.0.31    octoprintpi4b octoprint octoprintpi4b.lan octoprint.lan
 10.0.0.32    plexdesk plexdesk.lan
 10.0.0.33    vaiopro13 vaiopro13.lan
 10.0.0.34    coldwater coldwater.lan
-10.0.0.37    plex2
-10.0.0.38    aquatone
+10.0.0.37    plex2    plex2.lan
+10.0.0.38    aquatone    aquatone.lan
 10.0.0.39    uptimekuma monitoring uptimekuma.lan monitoring.lan
-10.0.0.40    plex03
+10.0.0.40    plex03    plex03.lan
 10.0.0.41    encoder01 encoder01.lan
 10.0.0.42    encoder02 encoder02.lan
-10.0.0.44    overusedrpi3bv1dot2
-10.0.0.45    mariadb
-10.0.0.46    apache
-10.0.0.49    thinkpadl580wlan
-10.0.0.50    win10pro02
-10.0.0.53    oddmonkey
-10.0.0.54    arkmonkey
+10.0.0.44    overusedrpi3bv1dot2    overusedrpi3bvdot2.lan
+10.0.0.45    mariadb    mariadb.lan
+10.0.0.46    apache    apache.lan
+10.0.0.49    thinkpadl580wlan    thinkpadl580wlan
+10.0.0.50    win10pro02    win10pro02.lan
+10.0.0.53    oddmonkey    oddmonkey.lan
+10.0.0.54    arkmonkey    arkmoney.lan
 10.0.0.55    nginx01 nginx1 nginx01.lan nginx1.lan
-10.0.0.57    arr01
-10.0.0.61    openvpn
-10.0.0.64    virtual3    coldlake
-10.0.0.65    thinkpadx230
-10.0.0.69    homey
+10.0.0.57    arr01    arr01.lan
+10.0.0.61    openvpn    openvpn.lan
+10.0.0.64    virtual3    coldlake    virtual3.lan    coldlake.lan
+10.0.0.65    thinkpadx230    thinkpadx230.lan
+10.0.0.69    homey    homey.lan
 10.0.0.70    arquebus arquebus.lan
-10.0.0.75    bananapim2zero
-10.0.0.76    wireguard wireguard.lan
-10.0.0.77    rpi3bpluseth0
-10.0.0.78    rpi3bplus
+10.0.0.75    bananapim2zero    bananapim2zero.lan
+10.0.0.76    wireguard    wireguard.lan
+10.0.0.77    rpi3bpluseth0    rpi3bpluseth0.lan
+10.0.0.78    rpi3bplus    rpi3bplus.lan
 10.0.0.79    thinkpadl580 thinkpadl580.lan
-10.0.0.80    tftp
-10.0.0.81    amp amp.lan
-10.0.0.82    iptv
-10.0.0.88    server01 server01.lan
-10.0.0.89    server01nic2
-10.0.0.92    pizeropiosmotioneye
-10.0.0.93    RPi2BedRoom
+10.0.0.80    tftp    tfto.lan
+10.0.0.81    amp    amp.lan
+10.0.0.82    iptv    iptv.lan
+10.0.0.88    server01    server01.lan
+10.0.0.89    server01nic2    server01nic2.lan
+10.0.0.92    pizeropiosmotioneye    pizeromotioneye.lan
+10.0.0.93    RPi2BedRoom    RPi2BedRoom.lan
 10.0.0.97    bananapim2zero1
 10.0.0.100    huaweib593
 10.0.0.239    wordpress1
