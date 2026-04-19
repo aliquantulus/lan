@@ -76,7 +76,7 @@
 10.0.1.50    seedbox01 seedbox01.lan
 10.0.1.54    cordelia cordelia.lan
 10.0.1.57    cf-tun-offline cf-tun-offline.lan
-10.0.1.60    pihole
+10.0.1.60    pihole pihole.lan pi-hole pi-hole.lan
 10.0.1.69    GOOFBALL GOOFBALL.LAN
 10.0.1.70    RE6500-A89
 10.0.1.79    redshank redshank.lan
