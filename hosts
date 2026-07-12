@@ -83,6 +83,7 @@
 10.0.1.80    webserver1 webserver1.lan webserver01 webserver01.lan
 10.0.1.87    cdetect
 10.0.1.88    blackbird blackbird.lan
+10.0.1.89    immmich immich.lan
 10.0.1.94    kestrel kestrel.lan
 10.0.1.96    SipeedNanovKVMProWiFi SipeedNanovKVMProWiFi.lan
 10.0.1.97    SipeedNanovKVMProRJ45 SipeedNanovKVMProRJ45.lan
